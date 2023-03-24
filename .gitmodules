@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "NSM3"]
+	path = NSM3
+	url = https://github.com/cran/NSM3
+	shallow = true
+	registered = true
