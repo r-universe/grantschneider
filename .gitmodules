@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "IIS"]
+	path = IIS
+	url = https://github.com/cran/IIS
+[submodule "NSM3"]
+	path = NSM3
+	url = https://github.com/grantschneider/nsm3
